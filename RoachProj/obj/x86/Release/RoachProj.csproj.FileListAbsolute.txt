@@ -12,3 +12,11 @@ H:\Bugs\RoachProj\RoachProj\bin\Release\RoachProj.pdb
 H:\Bugs\RoachProj\RoachProj\obj\x86\Release\RoachProj.Form1.resources
 H:\Bugs\RoachProj\RoachProj\obj\x86\Release\RoachProj.Properties.Resources.resources
 H:\Bugs\RoachProj\RoachProj\obj\x86\Release\RoachProj.csproj.GenerateResource.Cache
+D:\Gits\RoachProj\RoachProj\obj\x86\Release\RoachProj.exe
+D:\Gits\RoachProj\RoachProj\obj\x86\Release\RoachProj.pdb
+D:\Gits\RoachProj\RoachProj\bin\Release\RoachProj.exe
+D:\Gits\RoachProj\RoachProj\bin\Release\RoachProj.pdb
+D:\Gits\RoachProj\RoachProj\obj\x86\Release\RoachProj.csprojResolveAssemblyReference.cache
+D:\Gits\RoachProj\RoachProj\obj\x86\Release\RoachProj.Form1.resources
+D:\Gits\RoachProj\RoachProj\obj\x86\Release\RoachProj.Properties.Resources.resources
+D:\Gits\RoachProj\RoachProj\obj\x86\Release\RoachProj.csproj.GenerateResource.Cache

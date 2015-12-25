@@ -61,6 +61,8 @@ namespace RoachProj
             
             foreach (Player p in players)
             {
+                int tmpMoney = p.money;
+                int tmpBank = bank;
                 if (playerSelect.SelectedIndex == p.num)
                 {
                     for (int i = 0; i < p.bets.Length; i++)
@@ -71,8 +73,18 @@ namespace RoachProj
                                 txtBet[i].Text = "0";
                             }
                             err = Int32.TryParse(txtBet[i].Text, out p.bets[i]);
+                        if (p.money >= p.bets[i])
+                        {
                             p.money -= p.bets[i];
                             bank += p.bets[i];
+                        }
+                        else
+                        {
+                            p.money = tmpMoney;
+                            bank = tmpBank;
+                            MessageBox.Show("Incefficient funds");
+                            return false;
+                        }
                             if (err == false)
                             {
                                 MessageBox.Show("Invalid value");
@@ -94,7 +106,11 @@ namespace RoachProj
             }
             foreach (Player p in players)
             {
-                p.money +=  (p.bets[r]*bank)/(reserved);
+                if (reserved != 0)
+                {
+                    p.money += (p.bets[r] * bank) / (reserved);
+                }
+                else { MessageBox.Show("Nobody won"); break; }
             }
         }
 
@@ -102,7 +118,7 @@ namespace RoachProj
         {
             foreach (PictureBox pic in pics)
             {
-                if (pic.Location.X < finishPic.Location.X - 10)
+                if (pic.Location.X < finishPic.Location.X - pic.Size.Width)
                 {
                     Point point = new Point();
                     point = pic.Location;
