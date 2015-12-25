@@ -1,0 +1,22 @@
+C:\Users\KujbanovME.NPOA\AppData\Local\Temporary Projects\RoachProj\bin\Debug\RoachProj.exe
+C:\Users\KujbanovME.NPOA\AppData\Local\Temporary Projects\RoachProj\bin\Debug\RoachProj.pdb
+C:\Users\KujbanovME.NPOA\AppData\Local\Temporary Projects\RoachProj\obj\x86\Debug\RoachProj.Form1.resources
+C:\Users\KujbanovME.NPOA\AppData\Local\Temporary Projects\RoachProj\obj\x86\Debug\RoachProj.Properties.Resources.resources
+C:\Users\KujbanovME.NPOA\AppData\Local\Temporary Projects\RoachProj\obj\x86\Debug\RoachProj.csproj.GenerateResource.Cache
+C:\Users\KujbanovME.NPOA\AppData\Local\Temporary Projects\RoachProj\obj\x86\Debug\RoachProj.exe
+C:\Users\KujbanovME.NPOA\AppData\Local\Temporary Projects\RoachProj\obj\x86\Debug\RoachProj.pdb
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Debug\RoachProj.exe
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Debug\RoachProj.pdb
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\bin\Debug\RoachProj.exe
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\bin\Debug\RoachProj.pdb
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Debug\RoachProj.Form1.resources
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Debug\RoachProj.Properties.Resources.resources
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Debug\RoachProj.csproj.GenerateResource.Cache
+H:\Bugs\RoachProj\RoachProj\obj\x86\Debug\RoachProj.exe
+H:\Bugs\RoachProj\RoachProj\obj\x86\Debug\RoachProj.pdb
+H:\Bugs\RoachProj\RoachProj\bin\Debug\RoachProj.exe
+H:\Bugs\RoachProj\RoachProj\bin\Debug\RoachProj.pdb
+H:\Bugs\RoachProj\RoachProj\obj\x86\Debug\RoachProj.csprojResolveAssemblyReference.cache
+H:\Bugs\RoachProj\RoachProj\obj\x86\Debug\RoachProj.Form1.resources
+H:\Bugs\RoachProj\RoachProj\obj\x86\Debug\RoachProj.Properties.Resources.resources
+H:\Bugs\RoachProj\RoachProj\obj\x86\Debug\RoachProj.csproj.GenerateResource.Cache

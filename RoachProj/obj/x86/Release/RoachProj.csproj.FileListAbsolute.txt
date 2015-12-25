@@ -1,0 +1,14 @@
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\bin\Release\RoachProj.exe
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\bin\Release\RoachProj.pdb
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Release\RoachProj.Form1.resources
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Release\RoachProj.Properties.Resources.resources
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Release\RoachProj.csproj.GenerateResource.Cache
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Release\RoachProj.exe
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\RoachProj\RoachProj\obj\x86\Release\RoachProj.pdb
+H:\Bugs\RoachProj\RoachProj\obj\x86\Release\RoachProj.exe
+H:\Bugs\RoachProj\RoachProj\obj\x86\Release\RoachProj.pdb
+H:\Bugs\RoachProj\RoachProj\bin\Release\RoachProj.exe
+H:\Bugs\RoachProj\RoachProj\bin\Release\RoachProj.pdb
+H:\Bugs\RoachProj\RoachProj\obj\x86\Release\RoachProj.Form1.resources
+H:\Bugs\RoachProj\RoachProj\obj\x86\Release\RoachProj.Properties.Resources.resources
+H:\Bugs\RoachProj\RoachProj\obj\x86\Release\RoachProj.csproj.GenerateResource.Cache
